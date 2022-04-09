@@ -8,7 +8,7 @@
     "date-fns": "^2.15.0",
     "firebase": "^6.0.2",
     "google-map-react": "^1.1.4",
-    "moment": "^2.22.0",
+    "moment": "^2.29.2",
     "react": "^16.13.1",
     "react-cropper": "^1.2.0",
     "react-datepicker": "^3.1.3",
